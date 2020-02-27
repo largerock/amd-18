@@ -12,4 +12,4 @@ wget --load-cookies cookies.txt -O $filename \
 tar -Jxvf amdgpu-pro.tar.xz
 cd ~/amdgpu-pro/
 ./amdgpu-install -y --opencl=pal,legacy
-echo "you better reboot boi"
+echo "Reboot for them changes"
